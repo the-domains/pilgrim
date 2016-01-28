@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "A soul's journey home"
-datePublished: '2016-01-28T01:02:53.244Z'
-dateModified: '2016-01-28T01:02:45.033Z'
+datePublished: '2016-01-28T14:12:23.884Z'
+dateModified: '2016-01-28T14:12:21.546Z'
 title: 'Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.'
 author: []
 sourcePath: _posts/2016-01-28-know-verily-that-the-soul-is-a-sign-of-god-a-heavenly-gem.md
@@ -24,14 +24,18 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd44f9ff-d542-4db8-8b3e-863019f12e7f.jpg)
 ![The Purest Branch](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6198aa8-862f-4f6f-852f-2f2181ba0867.jpg)
+
+The great sacrifice of a mother, her son and the Messenger
 ![House of Justice](https://the-grid-user-content.s3-us-west-2.amazonaws.com/016f41f3-174b-4693-a371-df7cf27f7cc9.jpg)
 
-# Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.
+> Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d23c55-2c4b-4e3c-b76c-dcab7caf8da9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/858bf1a7-058d-48d7-bf7e-751d6e0de0b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/495fc214-47db-4d93-8dce-adc5f7cfc950.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78dc0240-6f45-42ad-8e8d-6bcb64e8cc26.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b43da2719ebe35d4b1a6e141508edc6e10ceaf3c.jpg)
+
+Prison City
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/133b8a87-cdd7-466f-93f2-ee8272b4acb6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/219877fa-62db-41f5-ace4-1a9e5a16ca3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/537b8b7b-f719-412b-ac59-1ebad32eae45.jpg)
