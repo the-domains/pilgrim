@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pilgrim]]></title>
-        <description><![CDATA[Pilgrim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Pilgrim's Journey]]></title>
+        <description><![CDATA[A Pilgrim's Journey]]></description>
+        <link>https://thegrid.ai/pilgrim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 00:43:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 01:06:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pilgrim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.]]></title>
             <description><![CDATA[<article><h1>Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.</h1><p>A soul's journey home</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c013234f02658d7cac554136569251e4382f84b8.jpg"></article>]]></description>
-            <link>undefinedknow-verily-that-the-soul-is-a-sign-of-god-a-heavenly-gem/index.html</link>
+            <link>https://thegrid.ai/pilgrim/know-verily-that-the-soul-is-a-sign-of-god-a-heavenly-gem/index.html</link>
             <guid isPermaLink="false">991aca1d-5fc4-49e7-99dc-8fa57cf868c6</guid>
-            <pubDate>Thu, 28 Jan 2016 00:42:56 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 01:02:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
