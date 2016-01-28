@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "A soul's journey home"
-datePublished: '2016-01-28T01:04:03.920Z'
-dateModified: '2016-01-28T01:03:57.859Z'
+datePublished: '2016-01-28T01:02:53.050Z'
+dateModified: '2016-01-28T01:02:45.033Z'
 title: 'Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.'
 author: []
 sourcePath: _posts/2016-01-28-know-verily-that-the-soul-is-a-sign-of-god-a-heavenly-gem.md
