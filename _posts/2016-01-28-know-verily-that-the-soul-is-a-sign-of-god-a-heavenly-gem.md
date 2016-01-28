@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A soul's journey home"
-datePublished: '2016-01-28T01:02:53.050Z'
+datePublished: '2016-01-28T01:02:53.244Z'
 dateModified: '2016-01-28T01:02:45.033Z'
 title: 'Know, verily, that the soul is a sign of God, a heavenly gem whose reality the most learned of men hath failed to grasp, and whose mystery no mind, however acute, can ever hope to unravel.'
 author: []
