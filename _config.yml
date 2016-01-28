@@ -1,0 +1,29 @@
+name: Pilgrim
+favicon: null
+layout_spectrum: 0.3558540481608361
+typography_spectrum: 0.5041182360146195
+title: "A Pilgrim's Journey"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6028433097526431
+  lightness: 0.6345041519962251
+  saturation: 0.2215215426404029
+  rhythmicContrast: 0.8627786389552057
+purpose: []
